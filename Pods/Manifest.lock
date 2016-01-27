@@ -1,0 +1,10 @@
+PODS:
+  - TOCropViewController (1.2.2)
+
+DEPENDENCIES:
+  - TOCropViewController
+
+SPEC CHECKSUMS:
+  TOCropViewController: 9201b833738a8890cb7fdaa28e565e1f36147b29
+
+COCOAPODS: 0.39.0
